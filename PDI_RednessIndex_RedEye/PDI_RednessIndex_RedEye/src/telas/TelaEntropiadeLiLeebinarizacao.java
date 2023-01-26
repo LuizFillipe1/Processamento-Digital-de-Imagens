@@ -19,7 +19,7 @@ import processamento.ProcessamentoImagem;
 
 /**
  *
- * @author André Couto
+ * @author Luiz Fillipe
  */
 public class TelaEntropiadeLiLeebinarizacao extends javax.swing.JFrame {
 	private File pastaOrigem, pastaDestino;
